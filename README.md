@@ -19,6 +19,10 @@ The sentiment140 dataset is a widely used dataset in natural language processing
 4. **User:** Twitter handle (username) of the user who posted the tweet.
 5. **Text:** Actual text content of the tweet within the 280-character limit.
 
+| Dataset Link | QR Code Image |
+|--------------|---------------|
+| [Dataset Link](https://www.kaggle.com/datasets/kazanova/sentiment140) | <img src="https://github.com/KarthikShetty27/Twitter-Sentiment-Analysis-NLP-Project/assets/91489581/53d18446-b196-4ee2-9b17-ca9c5392d5fb" width="200"> |
+
 ## Setting up a Virtual Environment (venv) with PowerShell Scripts
 To manage project dependencies and ensure reproducibility, we'll use PowerShell scripts to start and end the virtual environment. Here's how to do it:
 
