@@ -1,0 +1,5 @@
+# Ignore the csv file in the Data Folder
+/Data
+
+# Ignore virtual environment
+/venv
